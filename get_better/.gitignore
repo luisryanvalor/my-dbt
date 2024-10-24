@@ -1,4 +1,0 @@
-# File paths to ignore
-target/
-dbt_packages/
-logs/
